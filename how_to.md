@@ -1,5 +1,7 @@
 Practice Tutorial: [Click here](https://www.markdowntutorial.com/lesson/4/)
 
+Emoji list: [Click here](https://gist.github.com/rxaviers/7360908)
+
 Creates a link with linkname:
 [Search for it!](www.google.com) <br>
 
