@@ -33,8 +33,8 @@
 
 🌱 I’m currently learning **Angular**
 
-💡 Fun fact: **wearing a tie can reduce blood flow to the brain by 7.5%** 
-_(make of it what you will ;))_
+💡 Fun fact: **wearing a tie can reduce blood flow to the brain by 7.5%**
+<span align="center">_(make of it what you will :))_</span>
 
  </div>
 
