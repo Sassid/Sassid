@@ -8,7 +8,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake+up,+Sassid...&width=1050&height=400&font=courier)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+It's+me:+Sassid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+It's+me:+Sassid!;" />
 </h1>
 
 <h3 align="center" style="color: rgb(249, 198, 99); font-family: orbitron">A passionate Web Developer with a smile on his face 😃  </h3>
@@ -67,8 +67,7 @@ _(make of it what you will 😉)_
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake.svg">
+    
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
