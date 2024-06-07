@@ -55,10 +55,18 @@ _(make of it what you will ;))_
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,php,mysql" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react,express,vite,tailwind,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,figma," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,md,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react,express,vite,tailwind,symfony,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,npm,bash" /><br>
 </div>
 
 <br/>
 <hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
