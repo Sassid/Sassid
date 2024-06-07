@@ -2,21 +2,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
 
- <style>
-        .responsive-pre {
-            white-space: pre-wrap; /* Allows the text to wrap */
-            word-wrap: break-word; /* Prevents long words from breaking the layout */
-            overflow-x: auto; /* Adds horizontal scroll if needed */
-            font-family: 'Courier New', Courier, monospace; /* Ensures monospace font */
-            padding: 10px; /* Adds some padding */
-            border: 1px solid #ccc; /* Adds a border */
-            background-color: #f5f5f5; /* Adds a background color */
-            border-radius: 5px; /* Rounds the corners */
-            max-width: 100%; /* Ensures it doesn't overflow the container */
-            box-sizing: border-box; /* Includes padding and border in the element's total width and height */
-        }
-    </style>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <br><br>
 
@@ -33,23 +18,47 @@
 <br/>
 
 <div>
- <pre class="responsive-pre">
+ <pre>
     🏫 Doranco Ecole Sup' Des Tech Créatives (France)
     💼 FullStack • Mobile • Design 
     📖 The Alchemist • The History of Imazighen
     🎧 Music • 🎮 Video Games • 🍥 Anime • 📺 Series
-    🐾 Dogs and foxes • 🍓 Strawberry and Vanilla 
+    🐾 Dogs and Foxes • 🍓 Strawberry and Vanilla 
  </pre>
 </div>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🔭 I’m currently working on **a video game scenario and its forum**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌱 I’m currently learning **Angular**
+
+💡 Fun fact: **wearing a tie can reduce blood flow to the brain by 7.5%**
+_(make of it what you will ;))_
 
  </div>
+
+ <div align="center" style="margin:50px"> 
+  <a href="https://sassid.github.io/Portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" style="border-radius: 10px; height:30px; width:150px"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/sassid/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 10px; height:30px; width:150px" />
+  </a>
+  <a href="mailto:&#115;&#97;&#115;&#115;&#105;&#100;&#46;&#100;&#101;&#118;&#97;&#110;&#100;&#100;&#101;&#115;&#105;&#103;&#110;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="border-radius: 10px; width:150px; height: 30px" />
+  </a>
+</div>
+
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react,express,vite,tailwind,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma," /><br>
+</div>
+
+<br/>
+<hr/>
