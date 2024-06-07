@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+It's+me:+Sassid!;" />
 </h1>
 
-<h3 align="center" style="color: rgb(249, 198, 99); font-family: orbitron">A passionate Web Developer with a smile on his face 😃  </h3>
+<h3 align="center" style="color: rgb(249, 198, 99); font-family: Orbitron">A passionate Web Developer with a smile on his face 😃  </h3>
 
 <hr>
 
