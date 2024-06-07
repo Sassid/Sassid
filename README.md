@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sassid.Sassid" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
 <br><br>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake+up,+Sassid...&width=1050&height=400&font=courier)](https://github.com/Akshay090/svg-banners)
